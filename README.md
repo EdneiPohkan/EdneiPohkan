@@ -1,5 +1,5 @@
-
-## Hi there 👋
+#  Hello! Welcome to my Github profile.
+## My name is Ednei L. Veiga and my nickname is "Pohkan"!
 
 ## Contatos:
 <div>
