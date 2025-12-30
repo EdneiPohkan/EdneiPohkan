@@ -1,4 +1,4 @@
-<div style="background-color: #f0f0f0; padding: 10px;">
+<div style="background-color: #23E4405F; padding: 10px;">
 Este é um bloco com fundo cinza claro.
 </div>
           
