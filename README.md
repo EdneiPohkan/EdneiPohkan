@@ -1,8 +1,7 @@
-<style="background-color: #4d7a70;">
 #  Hello! Welcome to my Github profile.
 ## My name is Ednei L. Veiga and my nickname is "Pohkan"!
 
-
+<div style="background-color: #f0f0f0;">Fundo cinza claro</div>
 - 🛠️ I'm currently working on an arena game in Unreal Engine 5.
 - 📖 I'm currently learning game development.
 - I'm learning:  
