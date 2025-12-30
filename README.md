@@ -7,10 +7,11 @@
 - I'm learning:  
 <kbd color cyan><div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg"  width="40" height="40"/>  
- <i class="devicon-unrealengine-original-wordmark"></i>          
 </div></kbd>
 
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"> <i class="devicon-unrealengine-original-wordmark"></i></link>
+          
 ___
 ## Contatos:
 <div>
