@@ -1,11 +1,4 @@
-<head>
-    <style>
-    body {
-      background-color: lightblue; /* Ou #ADD8E6, ou rgb(173, 216, 230) */
-    }
-    h1 {
-      background-color: #FFC0CB; /* Rosa */
-    }
+body { background-color: green; }
           
 #  Hello! Welcome to my Github profile.
 ## My name is Ednei L. Veiga and my nickname is "Pohkan"!
