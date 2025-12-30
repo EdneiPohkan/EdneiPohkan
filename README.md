@@ -2,7 +2,8 @@
 ## My name is Ednei L. Veiga and my nickname is "Pohkan"!
 
 <mark>
-- 🛠️ I'm currently working on an arena game in Unreal Engine 5.  
+- 🛠️ I'm currently working on an arena game in Unreal Engine 5.
+  
 - 📖 I'm currently learning game development.
 - I'm learning:
 <div style="background-color: #23E4405F;">
