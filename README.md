@@ -9,9 +9,7 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </div></kbd>
 
-<div style="background-color: #FFFF00; padding: 10px;">
-  Este texto tem um fundo amarelo.
-</div>
+<img loading="lazy" src=red>
 ___
 ## Contatos:
 <div>
