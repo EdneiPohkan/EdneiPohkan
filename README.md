@@ -1,8 +1,8 @@
 
-#  {c:#B81365} Hello! Welcome to my Github profile.
+#  Hello! Welcome to my Github profile.
 ## My name is Ednei L. Veiga and my nickname is "Pohkan"!
 
-
+{c:#B81365} 
 - 🛠️ I'm currently working on an arena game in Unreal Engine 5.
 - 📖 I'm currently learning game development.
 - I'm learning:  
