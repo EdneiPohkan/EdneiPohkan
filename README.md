@@ -32,7 +32,7 @@ ___
  
 <a href="https://x.com/pohkan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
 <a href="https://www.tiktok.com/@edneilveiga" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" target="_blank"></a>
-<a href="" target="_blank"><img loading="lazy" src="" target="_blank"></a>
-<a href="" target="_blank"><img loading="lazy" src="" target="_blank"></a>
-<a href="" target="_blank"><img loading="lazy" src="" target="_blank"></a>
+<a href="https://letterboxd.com/edneiveiga/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/letterboxd-%23313131.svg?style=for-the-badge&logo=letterboxd&logoColor=white" target="_blank"></a>
+<a href="https://backloggd.com/u/Ednei/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/backloggd-%23000000.svg?style=for-the-badge&logo=backloggd&logoColor=white" target="_blank"></a>
+<a href="https://www.artstation.com/edneiveiga" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/artstation-%2300599C.svg?style=for-the-badge&logo=artstation&logoColor=white" target="_blank"></a>
 </div>
