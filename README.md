@@ -28,7 +28,11 @@ ___
 <a href="https://www.linkedin.com/in/ednei-lourenço-da-veiga-993353111/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://open.spotify.com/user/12181632354?si=cde42263ddcf4b63" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 <a href="https://www.last.fm/user/pohkan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" target="_blank"></a>
-<a href="https://br.pinterest.com/edneipohkan/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
+<a href="https://br.pinterest.com/edneipohkan/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a> 
+ 
+<a href="https://x.com/pohkan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
+<a href="https://www.tiktok.com/@edneilveiga" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"><img loading="lazy" src="" target="_blank"></a>
 <a href="" target="_blank"><img loading="lazy" src="" target="_blank"></a>
 <a href="" target="_blank"><img loading="lazy" src="" target="_blank"></a>
 </div>
