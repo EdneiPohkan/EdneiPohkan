@@ -23,7 +23,8 @@ ___
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![ZBrush](https://img.shields.io/badge/zbrush-%236e2a00.svg?style=for-the-badge&logo=zbrush&logoColor=white)
 ![Substance Painter](https://img.shields.io/badge/substance%20painter-%231f3600.svg?style=for-the-badge&logo=substance%20painter&ogoColor=white)
-<a href="https://sketchfab.com/3d-models/boneco-sapalhaco-da5da738a8d6433787807c750ef8ed9b" target="_blank"><img loading="lazy" src="clideo_editor_ca70d187bd904120834782f502891773.gif" target="_blank" size="40%"></a>
+
+<a href="https://sketchfab.com/3d-models/boneco-sapalhaco-da5da738a8d6433787807c750ef8ed9b" target="_blank"><img loading="lazy" src="clideo_editor_ca70d187bd904120834782f502891773.gif" target="_blank" alt="SAPALHAÇO SKETCHFAB" width="400"></a>
 ___
 ## My Media:
 <div>
