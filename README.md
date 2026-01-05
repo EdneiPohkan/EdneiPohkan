@@ -41,7 +41,7 @@ ___
 
 
 
-#### My personality:
+#### A little more about me:
 <a href="https://br.pinterest.com/edneipohkan/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
 <a href="https://open.spotify.com/user/12181632354?si=cde42263ddcf4b63" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Spotify-21732f?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 <a href="https://letterboxd.com/edneiveiga/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/letterboxd-%23313131.svg?style=for-the-badge&logo=letterboxd&logoColor=white" target="_blank"></a>
